@@ -65,3 +65,6 @@ In this lab, you will again perform the task of image classification, but with a
 In this lab, you will build a generative adversarial network(or GAN) known as DCGAN. You will teach the model how to generate faces of celebrities by showing it the faces of real celebrities. Generative networks find applications in tasks like creating cartoons, generating artificial data for training other models, applications like face aging, 3D object generation and so on. As a fun exercise, you can try feeding it some images of yourself and see what the model outputs.
 
 Note that while some examples are done in Keras and some in Pytorch, both are quite powerful platforms. Each of the examples can be done in either of the two. This is an optional part but it is highly encouraged to try out different problems using the different platforms to get a know-how of how they can be used for building and training different kinds of models
+
+Authored by: Jay Paranjape, IIT Delhi (GITHUB handle - JayParanjape)
+
